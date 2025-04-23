@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umer,an agile polyglot software engineer.
+- 👋 Hi, I’m Umer, an agile polyglot software engineer.
 
 I am passionate about creating user-centric and cutting-edge products that solve real-world problems.
 
